@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Graf-Wronski
-- 👀 I’m interested in Python, Anna Karenina
+- 👀 I’m interested in Anna Karenina (for the most part), but also a little in Python and VBA.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
