@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @Graf-Wronski
-- 👀 I’m interested in Anna Karenina for the most part, but also a little in Python and VBA.
-- 🌱 I’m currently learning about Graph Neural Networks and try to get my way with larger ML-Projects.
+- 👀 I am intersted in Python, Mathmematics, Machine Learning and Energy Informatics.
+- 🌱 I am currently preparing a Master's Thesis at INATECH Freiburg.
 
-<!---
-Graf-Wronski/Graf-Wronski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
